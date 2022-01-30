@@ -20,7 +20,5 @@ Basta Acessar esse link:
 [Social tree](https://pedromartinsdev.github.io/social-tree)
 
 ## :clap: Créditos
-  ### Video Aulas
-  [Rocketseat](https://www.rocketseat.com.br)
-  ### Ícones
-  [icons8](https://icons8.com.br/)
+- Video Aulas: [Rocketseat](https://www.rocketseat.com.br)
+- Ícones: [icons8](https://icons8.com.br/)
