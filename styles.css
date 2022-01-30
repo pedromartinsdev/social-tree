@@ -30,6 +30,7 @@ main {
   max-width: 240px;
   border-radius: 50%;
   border: 5px solid var(--verde-principal);
+  filter: contrast(110%);
 }
 
 .greeting {
@@ -39,6 +40,7 @@ main {
   font-size: 18px;
   margin-top: 16px;
 }
+
 
 .links{
   display: flex;
@@ -80,4 +82,11 @@ main {
 
 a:hover {
   background-color: var(--verde-principal);
+}
+
+#github-gif {
+  height: 128px;
+  width: 128px;
+
+  align-self: center;
 }
