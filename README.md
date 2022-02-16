@@ -15,9 +15,7 @@ Foram usadas as seguintes tecnologias neste projeto:
 
 ## :smiley: Como vizualizar?
 
-Basta Acessar esse link:
-
-[Social tree](https://pedromartinsdev.github.io/social-tree)
+Basta Acessar esse link: [Social tree](https://pedromartinsdev.github.io/social-tree)
 
 ## :clap: Créditos
 - Video Aulas: [Rocketseat](https://www.rocketseat.com.br)
