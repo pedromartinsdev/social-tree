@@ -37,15 +37,15 @@ main {
   color: var(--branco-principal);
   font-weight: bold;
   text-align: center;
-  font-size: 18px;
-  margin-top: 16px;
+  font-size: 16px;
+  margin-top: 10px;
 }
-
 
 .links{
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 8px;
 
   height: 48px;
   background: #272727;
@@ -58,9 +58,38 @@ main {
   margin-top: 16px;
 }
 
+.link-half-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.link-half{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 48px;
+  background: #272727;
+  border-radius: 5px;
+  
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--branco-principal);
+  padding: 0 12px;
+}
+
+.logo-half{
+  height: 24px;
+  width: 24px
+  fill: var(--branco-principal);
+}
+
 .logo{
-  margin-right: 16px;
   height: 20px;
+  width: 20px
   fill: var(--branco-principal);
 }
 
@@ -69,7 +98,6 @@ main {
   font-weight: bold;
   text-align: center;
   font-size: 24px;
-  margin-top: 24px;
 }
 
 .info {
@@ -77,7 +105,7 @@ main {
   font-weight: bold;
   text-align: center;
   font-size: 14px;
-  margin-top: 5px;
+  margin-top: 16px;
 }
 
 a:hover {
